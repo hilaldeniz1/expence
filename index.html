@@ -12,7 +12,7 @@
     <div class="container">
         <!-- karsılama metnı -->
         <h3 class="greet">Hoşgeldin,
-            <input type="text" placeholder="isminizi giriniz..">
+            <input id="user-input" type="text" placeholder="isminizi giriniz..">
         </h3>
         <!-- form alanı -->
         <form>
@@ -41,6 +41,14 @@
         <!-- toplam alanı -->
         <div class="sum">
             Toplam Harcama <span id="sum-info">0</span> &#x20BA;</div>
+
+
+            <!-- filtreleme alanı -->
+            <select>
+                <option value="all">Hepsi</option>
+                <option value="payed">Ödenenler</option>
+                <option value="not-payed">Ödenmeyenler</option>
+            </select>
 
         <!-- harcamalar listesi -->
         <div id="list"></div>

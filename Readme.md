@@ -13,6 +13,18 @@ ekle
 --degişken her guncellendıgınde ekranı da guncelle(fonk. yazılabılır)
 
 
+-silme butonuna basılma olayını izle
+--butona tıklandıgında kapsayıcısını html den kaldır
+-kaldırılan harcamanın fıyatını toplamdan cıkar
+
+-kullanıcı ısmını al 
+--ve ismi localstorage kaydet
+--kullanıcı uygulamaya girdiginde localstorage da ısmı 
+kaydedılmısse onu al ve ınputa aktar
+
+-filtreleme alanında ne secılırse onun degerını al
+--o degere gore hangı harcamaların ekrana basılacagına karar ver
+
 # notlar
 
 -hoisting

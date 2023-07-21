@@ -1,3 +1,11 @@
+# <h1>Harcama Hesaplayıcı</h1>
+
+Gider hesapları için olusturulan javascript app
+
+### 'screen'
+
+![](expence-screen.gif)
+
 # yapılacaklar 
 
 -ekle butonuna tıklanıldıgında ınputların ıcerısıne yazılanlara
@@ -47,3 +55,5 @@ durumlarını kontrol eder
 
 
 -js tarafından eklenen bır html elemanını secıcı metodlar ıle tekrar js e cagıramıyoruz# expence
+
+

@@ -2,6 +2,10 @@
 
 Gider hesapları için olusturulan javascript app
 
+## 'Deploy'
+
+https://thriving-fairy-9093bc.netlify.app
+
 ### 'screen'
 
 ![](expence-screen.gif)
